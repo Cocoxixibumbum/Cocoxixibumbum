@@ -5,7 +5,7 @@
 - 📫 How to reach me Fale sobre Carlinhos
 - 😄 Pronouns: Carlos/junior
 - ⚡ Fun fact: Carlinhos é recordista mundial
-- 😄 I Hvae: Autimo moderado
+- 😄 I Have: Autimo moderado
 <!---
 Cocoxixibumbum/Cocoxixibumbum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
